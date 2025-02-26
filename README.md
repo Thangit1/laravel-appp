@@ -83,8 +83,8 @@ php artisan db:seed
 php artisan serve
 
 ## Lưu ý về cải tiến cấu trúc
--Áp dụng Repository Pattern giúp tách biệt logic truy cập dữ liệu từ controllers
--Service Layer chứa business logic, giúp code dễ test và bảo trì
--Request Validation giúp tách biệt logic validation
--API Resources chuẩn hóa dữ liệu trả về
--Events & Listeners xử lý các tác vụ phụ không đồng bộ
+- Áp dụng Repository Pattern giúp tách biệt logic truy cập dữ liệu từ controllers.
+- Service Layer chứa business logic, giúp code dễ test và bảo trì.
+- Request Validation giúp tách biệt logic validation.
+- API Resources chuẩn hóa dữ liệu trả về.
+- Events & Listeners xử lý các tác vụ phụ không đồng bộ.
