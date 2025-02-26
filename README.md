@@ -3,12 +3,12 @@
 --[Lương Văn Thắng]
 
 ## Mô Tả Ứng Dụng:
-Hệ thống quản lý sinh viên là một ứng dụng web giúp quản lý các môn học, sinh viên, giảng viên và khoa một cách hiệu quả. Ứng dụng cung cấp các chức năng CRUD (Tạo, Đọc, Sửa, Xóa, Xem chi tiết) cho các đối tượng chính: Khoa, Giảng viên, Sinh viên và Môn học.
+Hệ thống quản lý sinh viên là một ứng dụng web giúp quản lý các môn học, sinh viên, giảng viên và khoa một cách hiệu quả. Ứng dụng cung cấp các chức năng CRUD (Tạo, Đọc, Sửa, Xóa, Xem chi tiết) cho các đối tượng chính: Lớp, Sinh viên và Môn học(Điểm).
 
 ## Mục Đích
-- Quản lý thông tin các khoa
-- Quản lý thông tin giảng viên và sinh viên
-- Quản lý thông tin các môn học
+- Quản lý thông tin các lớp
+- Quản lý thông tin sinh viên 
+- Quản lý thông tin các môn học(điểm)
 - Cung cấp giao diện người dùng dễ sử dụng
 - Hiển thị dữ liệu hiệu quả thông qua DataTables
 ## Công Nghệ
@@ -26,7 +26,7 @@ Dự án sử dụng các công nghệ sau:
 - Laravel breeze
 ## Quá Trình Phát Triển Phần Mềm
 ### Sơ Đồ Khối (UML) - Cấu trúc Database
-![Database Schema](https://github.com/user-attachments/assets/7a07b7bc-511a-47d0-94dc-884962d69cb3)
+![Database Schema]((https://github.com/user-attachments/assets/ab809f39-1c32-4c3c-9e08-a36baedde874))
 
 ### Sơ Đồ Chức Năng (Sơ Đồ Thuật Toán)
 ```mermaid
