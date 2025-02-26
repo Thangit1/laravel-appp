@@ -26,7 +26,7 @@ Dự án sử dụng các công nghệ sau:
 - Laravel breeze
 ## Quá Trình Phát Triển Phần Mềm
 ### Sơ Đồ Khối (UML) - Cấu trúc Database
-![Database Schema]((https://github.com/user-attachments/assets/ab809f39-1c32-4c3c-9e08-a36baedde874))
+![Database Schema](https://github.com/user-attachments/assets/90d72cb8-dbb9-49c6-a244-9bf23d5b0f3e)
 
 ### Sơ Đồ Chức Năng (Sơ Đồ Thuật Toán)
 ```mermaid
